@@ -14,8 +14,10 @@ const styles = {
     },
     indicators: {
         width: "100%",
-        marginTop: "10px",
-        textAlign: "center"
+        marginTop: "-96px",
+        textAlign: "center",
+        position: "absolute",
+        zIndex: 2
     },
     indicator: {
         fontSize: "15px",
